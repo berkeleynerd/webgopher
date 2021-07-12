@@ -5,8 +5,8 @@ github.com/mattn/go-runewidth v0.0.4/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzp
 github.com/olekukonko/tablewriter v0.0.1 h1:b3iUnf1v+ppJiOfNX4yxxqfWKMQPZR5yoh8urCTFX88=
 github.com/olekukonko/tablewriter v0.0.1/go.mod h1:vsDQFd/mU46D+Z4whnwzcISnGGzXWMclvtLoiIKAKIo=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/prologic/go-gopher v0.0.0-20181230133552-0c68ed5f58b0 h1:10LO/S8HVjIuEHsHea//Cena1Ztgy23f/e8HFC0w5ow=
-github.com/prologic/go-gopher v0.0.0-20181230133552-0c68ed5f58b0/go.mod h1:LiuwIXz4es4YIUOD6yRv8mES9n9dFbe4z0+TcrLkhXg=
+git.mills.io/prologic/go-gopher v0.0.0-20181230133552-0c68ed5f58b0 h1:10LO/S8HVjIuEHsHea//Cena1Ztgy23f/e8HFC0w5ow=
+git.mills.io/prologic/go-gopher v0.0.0-20181230133552-0c68ed5f58b0/go.mod h1:LiuwIXz4es4YIUOD6yRv8mES9n9dFbe4z0+TcrLkhXg=
 github.com/sirupsen/logrus v1.4.2 h1:SPIRibHv4MatM3XXNO2BJeFLZwZ2LvZgfQ5+UNI2im4=
 github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6MwdIuYE2rE=
 github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf h1:pvbZ0lM0XWPBqUKqFU8cmavspvIl9nulOYwdy6IFRRo=

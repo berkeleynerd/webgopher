@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/prologic/go-gopher"
+	"git.mills.io/prologic/go-gopher"
 	log "github.com/sirupsen/logrus"
 	"jaytaylor.com/html2text"
 )
